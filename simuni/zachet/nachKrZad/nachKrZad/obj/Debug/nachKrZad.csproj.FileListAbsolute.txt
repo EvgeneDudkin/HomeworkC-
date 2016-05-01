@@ -1,0 +1,6 @@
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\bin\Debug\nachKrZad.exe.config
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\bin\Debug\nachKrZad.exe
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\bin\Debug\nachKrZad.pdb
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\obj\Debug\nachKrZad.csprojResolveAssemblyReference.cache
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\obj\Debug\nachKrZad.exe
+C:\Games\HW\simuni\zachet\nachKrZad\nachKrZad\obj\Debug\nachKrZad.pdb
